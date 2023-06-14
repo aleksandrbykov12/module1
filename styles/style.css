@@ -1,0 +1,73 @@
+body {
+    font-family: 'Manrope';
+    width: 1400px;
+    margin: 0 auto;
+    background: #f5f5f5;
+}
+
+.blocks {
+    padding: 125px;
+    background: white;
+}
+
+h1 {
+    margin-bottom: 30px;
+    margin-top: 128px;
+
+    width: 1400px;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+
+}
+
+.interior {
+    background-image: url('../resources/design.png');
+    background-repeat: no-repeat;
+    width: 1150px;
+    height: 500px;
+
+    margin-bottom: 150px;
+}
+
+.information {
+    width: 430px;
+    height: 81px;
+
+    padding: 40px;
+    padding-bottom: 40px;
+    padding-top: 379px;
+
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+
+    color: white;
+}
+
+.company-info h2 {
+    width: 1051px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.infor {
+    width: 1048px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61px;
+}
+
+.spec-service {
+    padding: 20px 40px;
+    width: 255px;
+    height: 67px;
+    cursor: pointer;
+    font-family: 'Manrope';
+    border-radius: 5px;
+    background-color: #ad1818;
+    color: white;
+}
