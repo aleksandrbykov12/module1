@@ -117,7 +117,7 @@ h2 {
     color: #ad1818;
 }
 
-.watchallprojects {
+.projects__link-btn {
     padding: 56px 0;
     display: block;
     width: 1150px;
@@ -132,7 +132,7 @@ h2 {
     border: 1px solid red;
 }
 
-.watchallprojects:hover {
+.projects__link-btn:hover {
     background-color: #ad1818;
     color: white;
 }
