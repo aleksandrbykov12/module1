@@ -19,7 +19,7 @@ section {
 .interiors__title {
     margin-top: 125px;
     margin-bottom: 30px;
-    width: 956px;
+    width: 980px;
     font-weight: 400;
     font-size: 60px;
     line-height: 60px;
@@ -66,6 +66,7 @@ h2 {
 
 .informations__text {
     margin-bottom: 30px;
+    width: 1100px;
     font-weight: 400;
     font-size: 45px;
     line-height: 61px;
