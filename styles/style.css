@@ -137,7 +137,7 @@ h2 {
     color: white;
 }
 
-.section_services {
+.services {
     margin: 0 auto;
     padding-top: 150px;
     background: black;
@@ -165,6 +165,6 @@ h2 {
     line-height: 41px;
 }
 
-.services:last-child {
+.services__list:last-child {
     padding-bottom: 150px;
 }
